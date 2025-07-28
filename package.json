@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "appwrite": "^8.0.0",
+    "appwrite": "^18.1.1",
     "clsx": "^2.1.1",
     "framer-motion": "^6.0.0",
     "lucide-react": "^0.526.0",
